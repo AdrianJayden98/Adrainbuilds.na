@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /assets/
 
-Sitemap: https://adrianm.dev/sitemap.xml
+Sitemap: https://adrianjayden98.github.io/Adrainbuilds.na/sitemap.xml
